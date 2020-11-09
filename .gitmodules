@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:ZinChen/insta-mvp-api.git
+[submodule "web"]
+	path = web
+	url = git@github.com:ZinChen/insta-mvp-web.git
