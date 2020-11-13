@@ -1,5 +1,7 @@
 # Insta MVP
 
+Demo: <https://insta-mvp-web.herokuapp.com/>
+
 ## Local deploy
 
 ```sh
